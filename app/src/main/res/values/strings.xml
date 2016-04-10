@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contacts Map</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_key">AIzaSyBGsoxtYGnQUh8vNDHY0RHFx35sC9SDC2M</string>
+</resources>
